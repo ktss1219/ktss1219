@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktss1219&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktss1219&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ktss1219/ktss1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
