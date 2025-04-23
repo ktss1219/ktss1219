@@ -2,6 +2,8 @@ Hi👋 I'm @ktss1219
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktss1219&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **ktss1219/ktss1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
